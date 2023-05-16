@@ -12,4 +12,9 @@ The ESP32 is connected to a firebase database. It listenes to changes to the lig
 
 I created an android app that can change the values of the light's in the firebase database.
 
+### App screenshot
+
+![](https://github.com/GavriloS/Remote-light-bulb/blob/main/images/light_switch_app.jpg)
+
+
 
